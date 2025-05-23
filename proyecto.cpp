@@ -7,5 +7,5 @@ main (){
 	//inicio
 	
 	
-	
+	cout <<"hola mundo.."<<endl
 }
