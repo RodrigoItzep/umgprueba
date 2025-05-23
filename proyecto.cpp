@@ -8,4 +8,5 @@ main (){
 	
 	
 	cout <<"hola mundo.."<<endl
+	cout <<"hola mundo 2.."<<endl
 }
